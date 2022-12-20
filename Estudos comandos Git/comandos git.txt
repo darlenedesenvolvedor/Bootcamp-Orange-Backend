@@ -1,0 +1,14 @@
+#Como clonar um repositorio na maquina local
+
+
+>git bush
+. git clone + url{https://github.com/darlenedesenvolvedor/Bootcamp-Orange-Backend.git}
+
+>para commitar 
+. git commit -m "Commit inicial"
+
+>git pull 
+para puxar arquivos
+
+>git push
+para subir arquivos
